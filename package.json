@@ -1,0 +1,14 @@
+{
+  "name": "link-pr-to-ticket",
+  "version": "1.0.0",
+  "description": "Uses the ticket name to create a label and link a Pull Request back to the original ticket in github projects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gray Karegeannes",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.2.3"
+  }
+}
